@@ -1411,22 +1411,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    121.0116774, 
-                    14.6585437
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "address": "Private Road, Quezon City, Philippines", 
-                "marker-color": "#3F3040", 
-                "marker-symbol": "circle", 
-                "name": "University of Sacred Heart"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     -66.7229795, 
                     18.2564453
                 ], 
@@ -4227,22 +4211,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    145.7220707, 
-                    15.1520486
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "address": "Northern Marianas College, Finasisu Lane, Susupe, Saipan 96950, CNMI", 
-                "marker-color": "#3F3040", 
-                "marker-symbol": "circle", 
-                "name": "Northern Marianas College"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     -90.26087419999999, 
                     38.6366082
                 ], 
@@ -6013,22 +5981,6 @@
                 "marker-color": "#3F3040", 
                 "marker-symbol": "circle", 
                 "name": "Hawaii Pacific University"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    144.8031091, 
-                    13.4319909
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "address": "University Of Guam, University Drive, Mangilao, 96923, Guam", 
-                "marker-color": "#3F3040", 
-                "marker-symbol": "circle", 
-                "name": "University of Guam"
             }, 
             "type": "Feature"
         }, 
